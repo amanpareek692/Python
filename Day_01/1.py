@@ -1,6 +1,8 @@
 """Take the user's name, age and height as input.
-Print a sentence using an f-string like this: 
+Print a sentence using an f-string : 
 """
+
+
 Name=input('Enter the name of the Person:')
 Age=int(input('Enter the Age of the person:'))
 Height=input("Enter the Height of the Person")
