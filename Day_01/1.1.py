@@ -1,12 +1,8 @@
-"""Take two number and print:
-Addition
-Subtraction
-Multiplication
-Division
-Floor Division
-Modulus
-Exponent"""
-Number_1=int(input("Enter the number 1:"))
-Number_2=int(input("Enter the number 2:"))
-d=[Number_1+Number_2,Number_1-Number_2]
-print(d)
+# This is for practice purpose 
+
+a=[1,2,4,5,1]
+
+if a[0]==a[-1]:
+    print("this happens")
+else:
+    print("this des not happen")    
