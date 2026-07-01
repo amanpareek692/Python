@@ -1,4 +1,10 @@
-
+"""create a list of 5 student marks.
+Ask the user to enter a subject number(1-5)
+if the subject number is valid,display the ocreesponding marks.
+if the marks are above 90,print excellent
+if the marks are between 75 and 89,print good
+otherwise,print Needs Improvement.
+if the subject number is invalid,print invalid subject number"""
 
 
 Student_marks = [87,98,32,45,65]
