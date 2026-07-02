@@ -10,6 +10,7 @@ if yes,print Eligible for vote.
 otherwise,print apply for Voter id.
 if not an indian citizen,print Not Eligible.
 if age is below 18,print how many years are left before the user can vote.
+(=,== difference)
 
 """
 
